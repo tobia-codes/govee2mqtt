@@ -1,6 +1,6 @@
 name: Govee to MQTT Bridge ( TobiA Fork)
 image: ghcr.io/tobia-codes/govee2mqtt-{arch}
-version: "2026.05.04-45391fb4"
+version: "2026.05.04-34024694"
 slug: govee2mqtt-tobia-codes
 description: Control Govee Devices
 url: https://github.com/tobia-codes/govee2mqtt
